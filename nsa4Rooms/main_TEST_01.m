@@ -1,6 +1,8 @@
 % function main_TEST_01
 VARIABLES_FourRooms;
-addpath ('../../CTRNN/RasterPlot/');
+% path were data are stored
+data_path='~/DATA/4ROOMS/Analysed Data 20200514/';
+
 
 try
     bdata_big;
